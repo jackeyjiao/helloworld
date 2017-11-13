@@ -27,4 +27,4 @@ MAINTAINER Jackey Jiao
 #CMD ["--port 27017"]
 
 # Set default container command
-ENTRYPOINT /usr/bin/ps -ef
+ENTRYPOINT /bin/ps -ef
